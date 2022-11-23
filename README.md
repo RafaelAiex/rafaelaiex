@@ -1,4 +1,4 @@
-## Olá, sou o Rafael, programador júnior em desenvolvimento!rs 👋
+## Olá, sou o Rafael programador júnior em desenvolvimento!rs 👋
 <div align="center">
   <a href="https://www.behance.net/rafael_aiex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelaiex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
